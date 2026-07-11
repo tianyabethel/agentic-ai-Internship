@@ -1,4 +1,4 @@
-# IDX Exchange NLP Internship
+# IDX Exchange Agentic AI Internship
 
 ## Week 0 Setup
 
